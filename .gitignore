@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Datsets
+imagine_decoding_challenge.zip
+imagine_decoding_challenge/
+flake.lock
+
 # Distribution / packaging
 .Python
 build/
@@ -143,6 +148,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.direnv/
 
 # Spyder project settings
 .spyderproject
